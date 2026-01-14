@@ -58,7 +58,7 @@
     <!-- Contact -->
     <section id="contact">
         <h2>Contact</h2>
-        <p>If you need to reach me, email me at: <a href="mailto:your@email.com">your@email.com</a></p>
+        <p>If you need to reach me, email me at: <a href="mailto:denimmac@gmail.com">denimmac@gmail.com</a></p>
     </section>
 
     <!-- Refund Policy -->
@@ -85,7 +85,7 @@
 </main>
 
 <footer>
-    <p>&copy; 2026 Your Business Name</p>
+    <p>&copy; 2026 Denim Software</p>
 </footer>
 
 </body>
